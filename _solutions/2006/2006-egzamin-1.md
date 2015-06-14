@@ -21,3 +21,9 @@ występuje dokłądnie \\( n2^{n-5} \\) razy.
 
 Udowodnij, że krawędzie dowolnego grafu nieskierowanego można skierować w taki sposób,
 że dla każdego wierzchołka \\(v\\) będzie spełniony warunek \\( \left| deg\_{in}(v) - deg\_{out}(v) \right|  \leq 1 \\).
+
+###Zadanie 4
+
+Znajdź wielomian chromatyczny poniższego grafu. Wskazówka: Oblicz najpierw wielomian chromatyczny pewnego podgrafu. 
+
+![alt tag](https://raw.githubusercontent.com/wakacjezmd/wakacjezmd.github.io/master/_solutions/2006/img1.png)
